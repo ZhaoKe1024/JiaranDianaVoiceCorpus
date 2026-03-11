@@ -8,3 +8,7 @@ The corpus comes from the following live broadcasts:
 - 2023-01-19: https://www.bilibili.com/video/BV1U3411d7M1
 - 2023-02-11: https://www.bilibili.com/video/BV1RD4y1A7Nk
 - 2023-02-14: https://www.bilibili.com/video/BV1Xy4y1f7Fn
+
+TTS projecg for learning: [TTS by pytorch](https://github.com/yeyupiaoling/VITS-Pytorch)
+
+TTS project: [SO-VITS-SVC](https://github.com/svc-develop-team/so-vits-svc)
