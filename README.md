@@ -1,6 +1,8 @@
 # JiaranAudioCorpus
 Jiaran Diana live-streaming clips for training computer acoustic deep learning model(Text to Speech Model).
 
+The complete 1005 pieces of data can be found on the huggingface link: [CullenZhao/JiaranDianaVioceCorpus](https://huggingface.co/datasets/CullenZhao/JiaranDianaVioceCorpus)
+
 The corpus comes from the following live broadcasts:
 
 - 2022-12-14: https://www.bilibili.com/video/BV1A24y1D7Va
